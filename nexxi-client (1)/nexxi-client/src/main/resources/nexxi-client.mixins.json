@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.nexxi.client.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "PauseScreenMixin",
+    "TitleScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "key.category.nexxi-client.main": "Nexxi Client",
+  "key.nexxi-client.open_menu": "Open Nexxi Client Menu (+ / = key)",
+  "key.nexxi-client.toggle_overlay": "Show / Hide Overlay",
+  "key.nexxi-client.toggle_live": "Start / Stop LIVE",
+  "key.nexxi-client.pearl_list": "Open Pearl Puller List",
+  "key.nexxi-client.pearl_send": "Send Pearl Pull Alert"
+}
